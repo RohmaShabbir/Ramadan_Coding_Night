@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+        "author": "Max Tegmark",
+        "year": "2017",
+        "genre": " Non-Fiction / Artificial Intelligence / Future Technology",
+        "read": false
+    },
+    {
+        "title": "Superintelligence: Paths, Dangers, Strategies",
+        "author": "Nick Bostrom",
+        "year": "2014",
+        "genre": "Non-Fiction / AI / Philosophy",
+        "read": true
+    }
+]
